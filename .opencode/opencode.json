@@ -1,0 +1,11 @@
+{
+  "mcp": {
+    "claude-mem": {
+      "type": "local",
+      "command": [
+        "/usr/bin/node-22",
+        "/home/prajwal/.claude/plugins/marketplaces/thedotmack/plugin/scripts/mcp-server.cjs"
+      ]
+    }
+  }
+}
